@@ -88,6 +88,12 @@ html, body {
   margin-right: auto;
   width: 20%;
 }
+.headshot {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
 
 .nav-logo img{
   position: absolute;

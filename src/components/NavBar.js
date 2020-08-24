@@ -25,6 +25,7 @@ const Navigation = () => {
         style={styles.navStyle}
         mode="dark"
         fontSize="500px"
+        
         leftContent={[<OverlayVisible />]}
         rightContent={<img src={Logo} alt="GatherNow logo"></img>}
       >
